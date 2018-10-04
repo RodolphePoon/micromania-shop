@@ -1,0 +1,43 @@
+[
+	{
+		"nom":"micromania les halles",
+		"adresse":"210 Porte Lescot 75001 PARIS",
+		"position":{
+			"latitude":48.8618499,
+			"longitude":2.34719
+		}
+	},
+	{
+		"nom":"micromania innocents",
+		"adresse":"2, Rue Pierre Lescot 75001 PARIS",
+		"position":{
+			"latitude":48.86116,
+			"longitude":2.34795
+		}
+	},
+	{
+		"nom":"micromania MONTPARNASSE Rue de Rennes",
+		"adresse":"126, Rue de Rennes 75006 PARIS",
+		"position":{
+			"latitude":48.84658,
+			"longitude":2.32631
+		}
+	},
+	{
+		"nom":"micromania PARIS SAINT ANTOINE",
+		"adresse":"3 bis rue du Faubourg St Antoine 75011 PARIS",
+		"position":{
+			"latitude":48.85322,
+			"longitude":2.37062
+		}
+	},
+	{
+		"nom":"micromania CAUMARTIN",
+		"adresse":"64 Rue de Caumartin, 75009 Paris, France",
+		"position":{
+			"latitude":48.87534,
+			"longitude":2.32856
+		}
+	}
+
+]
