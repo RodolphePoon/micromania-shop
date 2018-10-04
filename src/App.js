@@ -106,7 +106,7 @@ class App extends Component {
                   ))} 
             </GoogleMap>
           </div>
-          <div style={{width: '50%',overflow: 'hidden'}}>
+          <div style={{width: '50%',overflow: 'hidden',padding:10}}>
           {this.state.selectedStore.length>0&&
           <button style={{margin:20, height: 50, width: 200, borderRadius: 10 }}onClick={this.download}> download csv</button>
           }{this.state.selectedStore.length>0&&
